@@ -1,6 +1,12 @@
-# Hi, I'm Arijeet Banerjee! 👋
+<h1 align="center">
+  Hi, I'm Arijeet Banerjee! 👋
+</h1>
 
-### 🚀 Aspiring Python Developer | B.Tech Student | Tech Enthusiast
+<h3 align="center">
+  <a href="https://github.com/arijeetbanerjee" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Python+Developer;Tech+Enthusiast;Lifelong+Learner&center=true&width=500&height=45">
+  </a>
+</h3>
 
 ---
 
