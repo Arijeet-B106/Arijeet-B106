@@ -33,7 +33,7 @@
 ---
 
 💬 **Let's Connect!**
-- [LinkedIn](linkedin.com/in/arijeet-banerjee-28325b31a) 
+- [LinkedIn](www.linkedin.com/in/arijeet-banerjee-28325b31a) 
 
 
 ---
